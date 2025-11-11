@@ -81,7 +81,7 @@ namespace WindowsFormsApp1
             this.panelTop.Size = new System.Drawing.Size(1100, 50);
             this.panelTop.TabIndex = 1;
             // 
-            // btnTrending
+            // btnTrending  
             // 
             this.btnTrending.BackColor = System.Drawing.Color.SkyBlue;
             this.btnTrending.Location = new System.Drawing.Point(8, 10);
